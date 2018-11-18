@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1537311736 source:k:\cpp repo\operatorssizeprojections\main.cpp
+	<iostream>
+	<climits>
+

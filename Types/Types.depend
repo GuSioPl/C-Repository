@@ -1,0 +1,4 @@
+# depslib dependency file v1.0
+1538311871 source:k:\cpp repo\types\main.cpp
+	<iostream>
+
